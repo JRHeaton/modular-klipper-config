@@ -1,4 +1,4 @@
 *.bkp
-printer*.cfg
+printer-*.cfg
 */printer_*/config
 .DS_Store
