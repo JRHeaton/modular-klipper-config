@@ -1,3 +1,2 @@
-# Modular Klipper/Moonraker Configurations
+# Personal printer configs
 
-Install/config options, file structure, and template usage coming soon.
